@@ -1,3 +1,3 @@
 # hello-world
 Repository for python lessons.
-Begginer in R and python but not for long! :)
+A begginer when it comes to python but not for long! :)
